@@ -1,5 +1,7 @@
 {
-  "game_source": "7773c9f594b5e4265914f22280c27791acbf2f27",
-  "engine_release": "build-20261021-454819e",
-  "built_at": "2026-10-28T04:56:05.120304+00:00"
+  "source": "96d8425d2b8ddb90bd632dfe04cfcdd58ed2c10f",
+  "engine": "Tallow",
+  "engine_build": "cfd9db7787e1797d5e7fd4400a7c2d5e00426914",
+  "engine_release": "build-cfd9db7787e1797d5e7fd4400a7c2d5e00426914",
+  "tag": "zombie-tag-20261101-180056-96d8425"
 }
