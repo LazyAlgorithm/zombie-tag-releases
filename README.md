@@ -4,7 +4,7 @@
 
 A first-person multiplayer infection game inside a dark, furnished house. Humans search for a hidden key and escape; zombies hunt them. Fixed and generated houses, NPCs, character selection, proximity voice with wall muffling, and Steam friend lobbies.
 
-[Download Windows and Linux builds](https://github.com/LazyAlgorithm/zombie-tag-releases/releases). Extract the entire ZIP, start Steam, then launch the game. The Tessera Hub also installs and updates these builds.
+[Download Windows and Linux builds](https://github.com/LazyAlgorithm/zombie-tag-releases/releases). Extract the entire ZIP, start Steam, then launch the game. The Tallow Hub also installs and updates these builds.
 
 - WASD move, mouse look, Shift sprint, F flashlight, E interact, Escape menu.
 - Zombies use an IK claw swipe with left click; AI uses the same contact timing. Infection turns players after a countdown; the host can set 0–10 seconds (default 3).
